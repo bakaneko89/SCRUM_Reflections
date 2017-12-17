@@ -1,0 +1,2 @@
+TDD:
+Test Driven Development, to metodyka tworzenia oprogramowania, w której rozpoczyna jego tworzenie od testów, które sprawdz¹ budowan¹ funkcjonalnoœæ, dopiero potem tworzy siê funkcjonalnoœæ tak, aby przesz³a napisane testy.
