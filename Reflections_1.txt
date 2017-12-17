@@ -1,0 +1,4 @@
+wymagania funkcjonalne:
+zwi¹zane s¹ z tym co robi program, czy zawiera zaplanowane funkcjonalnoœci.
+wymagania niefunkcjonalne:
+zwi¹zane s¹ z tym jak dzia³a program, czyli np. szybkoœci¹ i bezpieczeñstwem.
