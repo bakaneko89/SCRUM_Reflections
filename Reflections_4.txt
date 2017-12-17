@@ -1,0 +1,1 @@
+Scrum i Kanban ró¿ni¹ siê ograniczeniami czasowymi, które w scrumie s¹ jedn¹ z centralnych czêœci. Wykonywane zadania s¹ zaplanowane dla ka¿dego sprintu, który trwa przez okreœlony czas. Kanban stosowany jest w zadaniach, którym trudno nadaæ ramy czasowe.
